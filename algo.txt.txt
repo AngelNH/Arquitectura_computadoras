@@ -1,7 +1,5 @@
 
 que cosas fijate
-<<<<<<< HEAD
+
 esta muy raro
-=======
-esta muy interesante
->>>>>>> 524aa06864f30d81d3f791d615ee4f633e528cb0
+
